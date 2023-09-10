@@ -1,2 +1,3 @@
-"# belajar-java-sesi-12-java-database" 
-"# belajar-java-sesi-12-java-database" 
+# Belajar Java Sesi 12
+
+Belajar Java Database
